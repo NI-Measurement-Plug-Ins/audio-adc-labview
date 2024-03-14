@@ -21,7 +21,7 @@ Before starting the measurements, ensure the DUT is powered up. In case, SMUs ar
 
 2. Set 12V and 5V Supplies according to the actual board connections: 
 
-   Turn on the Output for each SMU and click Run.
+   Turn on the Output for each SMU and click Run. 
    
    ![alt text](images/instr-studio-smu-panel-1.png)
 
@@ -53,6 +53,7 @@ After adding measurement service into the Instrument Studio as explained above,
    ![alt text](images/teststand-open-seq.png)
 
 2. Insert a 'Measurement' step under MeasurementLink in Insertion palette or by selecting Insert Step > MeasurementLink > Measurement in right click menu.
+   Rename the step as required and choose the required measurement in Step settings.
 
    ![alt text](images/teststand-insert-measlink-step.png)
 
@@ -64,7 +65,7 @@ After adding measurement service into the Instrument Studio as explained above,
 
    ![alt text](images/instr-studio-meas-config-copied.png)
 
-5. Select the measurement step click on the paste button as highlighted in the screenshot. There will be message indicating that the measurement configuration is applied.
+5. Select the measurement step and click on the paste button as highlighted in the screenshot. There will be a message indicating that the measurement configuration is applied.
 
    ![alt text](images/teststand-paste-config.png)
 
@@ -80,42 +81,4 @@ After adding measurement service into the Instrument Studio as explained above,
 
    ![alt text](images/instr-studio-results-from-ts.png)
 
-## Measurements
-### AC
-
-1. Select appropriate resource names, data line and channel according to the hardware setup and update other parameters as needed. Ensure the protocol settings are good. Please note that, measurement is working in I2S by default.
-
-   ![alt text](images/ac-config.png)
-
-2. Run the measurement. The frequency, amplitude, SNR, THD, THD+N, Dynamic Range, Gain error, SFDR values are calculated and displayed in the panel below.
-
-   ![alt text](images/ac-meas-results.png)
-3. The generated and acquired signals can be seen from time domain and frequency domain graphs.
-
-   AC Measurement - Frequency Domain:
-   ![alt text](images/ac-freq-domain.png)
-
-   AC Measurement - Time Domain:
-   ![alt text](images/ac-time-domain.png)
-
-### Frequency Response
-
-1. Select the appropriate resource names, data line, channel the DUT is connected to and run the measurement service with the default values.
-   ![alt text](images/freq-resp-config.png)
-
-2. FR, RMS Levels, THD, THD+N, time domain graphs should be visible without any error.
-
-   Frequency Response:
-   ![alt text](images/freq-resp-fr.png)
-
-   RMS Levels:
-   ![alt text](images/freq-resp-rms-levels.png)
-
-   THD:
-   ![alt text](images/freq-resp-thd.png)
-
-   THD+N:
-   ![alt text](images/freq-resp-thd-plus-n.png)
-
-   TimeDomain:
-   ![alt text](images/freq-resp-time-domain.png)
+Please refer the README.MD under each measurement for the respective configurations and measurements.
