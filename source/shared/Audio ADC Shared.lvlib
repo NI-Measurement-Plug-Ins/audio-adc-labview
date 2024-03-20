@@ -19,7 +19,6 @@
 	<Item Name="Get Full Terminal Name_Copy.vi" Type="VI" URL="../Get Full Terminal Name_Copy.vi"/>
 	<Item Name="Get UI Path.vi" Type="VI" URL="../Get UI Path.vi"/>
 	<Item Name="Measurement to Protocol Settings.vi" Type="VI" URL="../Measurement to Protocol Settings.vi"/>
-	<Item Name="Post-Build Action_NoUICopy.vi" Type="VI" URL="../Post-Build Action_NoUICopy.vi"/>
 	<Item Name="Stop Waveform Generation.vi" Type="VI" URL="../Stop Waveform Generation.vi"/>
 	<Item Name="Update Protocol UI Controls.vi" Type="VI" URL="../Update Protocol UI Controls.vi"/>
 	<Item Name="Volts to dB.vi" Type="VI" URL="../Volts to dB.vi"/>

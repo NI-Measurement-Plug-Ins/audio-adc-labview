@@ -10,21 +10,20 @@ Install the below softwares and packages from NIPM
 - LabVIEW Sound and Vibration Toolkit (2021 or higher)
 - LabVIEW Runtime Engine (2021 SP1 or higher)
 - LabVIEW 64-bit (2021 SP1 or higher)
-- Measurement Link (2023 Q3 or higher)
+- Measurement Link (2024 Q1 or higher)
 
 ## VIPM packages
 
-Download and install the below packages in this [link](https://github.com/ni/measurementlink-labview/releases/tag/v1.0.1).
-- LabVIEW Grpc library - 1.0.0.1
-- LabVIEW Grpc servicer - 1.0.0.1
-
-Then, Download and install the below packages in this [link](https://github.com/ni/measurementlink-labview/releases/tag/v1.1.0.3).
-- MeasurementLink service - 1.1.0.3
-- MeasurementLink generator - 1.1.0.3
+Download and install the below packages in this [link](https://github.com/ni/measurementlink-labview/releases/tag/v2.0.0.1).
+- ni_lib_labview_grpc_library-1.0.1.1
+- ni_lib_labview_grpc_servicer-1.0.1.1
+- ni_measurementlink_generator-2.0.0.1
+- ni_measurementlink_service-2.0.0.1
+- ni_protobuf_types-1.0.0.1
 
 ## Tested with:
-- Instrument Studio 2023 Q1
-- TestStand 2023 Q4
+- Instrument Studio 2024 Q1
+- TestStand 2024 Q1
 
 ## Github and LabVIEW Guidelines:
 Refer to [this](github-labview-guidelines.md) document for guidelines on github processes and labview development.

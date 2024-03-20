@@ -6,7 +6,7 @@
 
 This plugin generates analog signal and measures the digital audio output of the ADC
 
-![image](res/audio-adc-plugin.png)
+![image](docs/images/ac-freq-domain.png)
 
 
 ## Key Features
@@ -30,8 +30,8 @@ This plugin generates analog signal and measures the digital audio output of the
 Install from NI Package Manager:
 
 - NI-DCPower (As recommended by InstrumentStudio, if SMUs are used for powering up the DUT)
-- InstrumentStudio (2024 Q3 or higher)
-- Measurement Link (2023 Q4 or higher)
+- InstrumentStudio (2024 Q1 or higher)
+- Measurement Link (2024 Q1 or higher)
 
 Download the latest NI package from the releases section of this repo or add the feed to NI Package Manager to get updates from this repo and other in this community
 

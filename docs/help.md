@@ -5,7 +5,7 @@
 1. Open InstrumentStudio
    ![alt text](images/instr-studio-open-is.png)
 
-2. Click Manual Layout, and select required measurement (e.g., Audio ADC - AC Measurement) and 'Create Large Panel' from dropdown. Click OK.
+2. Click Manual Layout, and select required measurement under the collection (for e.g., AC under Audio ADC) and 'Create Large Panel' from dropdown. Click OK.
    ![alt text](images/instr-studio-manual-layout.png)
 
 3. AC measurement UI will get displayed on a large panel as shown in below screenshot.
@@ -48,7 +48,7 @@ Follow the worflow below to automate the measurements using TestStand and monito
 
 After adding measurement service into the Instrument Studio as explained above,
 
-1. Open TestStand 2023 Q3 or higher version. Open new sequence file or saved sequence file. 
+1. Open TestStand 2023 Q3 or higher version. Open a new sequence file and save the file. 
 
    ![alt text](images/teststand-open-seq.png)
 
@@ -81,4 +81,4 @@ After adding measurement service into the Instrument Studio as explained above,
 
    ![alt text](images/instr-studio-results-from-ts.png)
 
-Please refer the README.MD under each measurement for the respective configurations and measurements.
+Please refer [this](measurements\meas-index.md) for more details on each measurement.
