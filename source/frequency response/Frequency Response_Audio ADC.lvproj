@@ -438,7 +438,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/community-repo/audio-adc-labview/builds/NI_AB_PROJECTNAME</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Frequency Response_Audio ADC.lvlib/Advanced/Build Assets/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{840E365A-2708-465F-A33F-DA8DFD140DFC}</Property>
-				<Property Name="Bld_version.build" Type="Int">51</Property>
+				<Property Name="Bld_version.build" Type="Int">53</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Frequency Response_Audio ADC.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/community-repo/audio-adc-labview/builds/NI_AB_PROJECTNAME/a.exe</Property>
@@ -502,7 +502,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F5F4F128-7524-4ED7-96C3-D86D5E86A16D}</Property>
-				<Property Name="Bld_version.build" Type="Int">34</Property>
+				<Property Name="Bld_version.build" Type="Int">36</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Frequency Response_Audio ADC_UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/BuiltUI/Frequency Response_Audio ADC_UI.lvlibp</Property>
