@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Open Dialog.ctl" Type="VI" URL="../Open Dialog.ctl"/>
+	<Item Name="PCM Interface Type_Copy.ctl" Type="VI" URL="../PCM Interface Type_Copy.ctl"/>
 	<Item Name="Protocol Settings.ctl" Type="VI" URL="../Protocol Settings.ctl"/>
 	<Item Name="Sync Commands Queue Ref.ctl" Type="VI" URL="../Sync Commands Queue Ref.ctl"/>
 	<Item Name="Sync Commands.ctl" Type="VI" URL="../Sync Commands.ctl"/>

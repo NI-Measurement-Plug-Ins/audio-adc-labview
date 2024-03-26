@@ -16,10 +16,17 @@
 	<Item Name="Generate AC Measurement Waveform.vi" Type="VI" URL="../Generate AC Measurement Waveform.vi"/>
 	<Item Name="Get DAQmx Homogeneous Product Name.vi" Type="VI" URL="../Get DAQmx Homogeneous Product Name.vi"/>
 	<Item Name="Get DAQmx Product Name.vi" Type="VI" URL="../Get DAQmx Product Name.vi"/>
+	<Item Name="Get default PCM configuration_Copy.vi" Type="VI" URL="../Get default PCM configuration_Copy.vi"/>
 	<Item Name="Get Full Terminal Name_Copy.vi" Type="VI" URL="../Get Full Terminal Name_Copy.vi"/>
 	<Item Name="Get UI Path.vi" Type="VI" URL="../Get UI Path.vi"/>
 	<Item Name="Measurement to Protocol Settings.vi" Type="VI" URL="../Measurement to Protocol Settings.vi"/>
 	<Item Name="Stop Waveform Generation.vi" Type="VI" URL="../Stop Waveform Generation.vi"/>
+	<Item Name="sv_Align Waveforms by Leading Sync Pulse_Copy.vi" Type="VI" URL="../sv_Align Waveforms by Leading Sync Pulse_Copy.vi"/>
+	<Item Name="sv_Append Virtual Reference_Copy.vi" Type="VI" URL="../sv_Append Virtual Reference_Copy.vi"/>
+	<Item Name="sv_Assign Delay to Idle Channels_Copy.vi" Type="VI" URL="../sv_Assign Delay to Idle Channels_Copy.vi"/>
+	<Item Name="sv_Measure Delay for Active and Idle Channels_Copy.vi" Type="VI" URL="../sv_Measure Delay for Active and Idle Channels_Copy.vi"/>
+	<Item Name="sv_Modify Channel Names_Copy.vi" Type="VI" URL="../sv_Modify Channel Names_Copy.vi"/>
+	<Item Name="sv_Prepare Acquired Waveforms for Parsing_Copy.vi" Type="VI" URL="../sv_Prepare Acquired Waveforms for Parsing_Copy.vi"/>
 	<Item Name="Update Protocol UI Controls.vi" Type="VI" URL="../Update Protocol UI Controls.vi"/>
 	<Item Name="Volts to dB.vi" Type="VI" URL="../Volts to dB.vi"/>
 	<Item Name="Wait For Generation Started.vi" Type="VI" URL="../Wait For Generation Started.vi"/>
