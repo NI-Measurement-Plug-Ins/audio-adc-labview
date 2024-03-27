@@ -16,9 +16,7 @@
 	<Item Name="Generate AC Measurement Waveform.vi" Type="VI" URL="../Generate AC Measurement Waveform.vi"/>
 	<Item Name="Get DAQmx Homogeneous Product Name.vi" Type="VI" URL="../Get DAQmx Homogeneous Product Name.vi"/>
 	<Item Name="Get DAQmx Product Name.vi" Type="VI" URL="../Get DAQmx Product Name.vi"/>
-	<Item Name="Get default PCM configuration.vi" Type="VI" URL="../Get default PCM configuration.vi"/>
 	<Item Name="Get default PCM configuration_Copy.vi" Type="VI" URL="../Get default PCM configuration_Copy.vi"/>
-	<Item Name="Get Full Terminal Name.vi" Type="VI" URL="../Get Full Terminal Name.vi"/>
 	<Item Name="Get Full Terminal Name_Copy.vi" Type="VI" URL="../Get Full Terminal Name_Copy.vi"/>
 	<Item Name="Get UI Path.vi" Type="VI" URL="../Get UI Path.vi"/>
 	<Item Name="Measurement to Protocol Settings.vi" Type="VI" URL="../Measurement to Protocol Settings.vi"/>
