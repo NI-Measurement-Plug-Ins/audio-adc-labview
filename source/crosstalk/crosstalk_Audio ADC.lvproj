@@ -13,8 +13,8 @@
 		<Item Name="shared" Type="Folder" URL="../../shared">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Crosstalk_Audio ADC UI.lvlib" Type="Library" URL="../Crosstalk_Audio ADC UI/Crosstalk_Audio ADC UI.lvlib"/>
 		<Item Name="Crosstalk_Audio ADC.lvlib" Type="Library" URL="../Crosstalk_Audio ADC/Crosstalk_Audio ADC.lvlib"/>
+		<Item Name="Crosstalk_Audio ADC_UI.lvlib" Type="Library" URL="../Crosstalk_Audio ADC UI/Crosstalk_Audio ADC_UI.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
@@ -407,6 +407,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Frequency Response_Audio ADC.lvlib" Type="Library" URL="../../frequency response/Frequency Response_Audio ADC/Frequency Response_Audio ADC.lvlib"/>
+			<Item Name="Get default PCM configuration.vi" Type="VI" URL="../../../../Program Files/National Instruments/LabVIEW 2021/examples/Digital Audio Acquisition and Generation Toolkit/subVIs/Get default PCM configuration.vi"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -421,6 +422,7 @@
 			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="PCM Interface Type.ctl" Type="VI" URL="../../../../Program Files/National Instruments/LabVIEW 2021/examples/Digital Audio Acquisition and Generation Toolkit/subVIs/PCM Interface Type.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Crosstalk_Audio ADC" Type="EXE">
