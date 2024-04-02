@@ -6,7 +6,9 @@
 	<Item Name="dialogs" Type="Folder">
 		<Item Name="Protocol Settings.vi" Type="VI" URL="../dialogs/Protocol Settings.vi"/>
 	</Item>
+	<Item Name="Build Channel List Dual Channel.vi" Type="VI" URL="../Build Channel List Dual Channel.vi"/>
 	<Item Name="Build Channel List.vi" Type="VI" URL="../Build Channel List.vi"/>
+	<Item Name="Configure Protocol Settings Dual Channel.vi" Type="VI" URL="../Configure Protocol Settings Dual Channel.vi"/>
 	<Item Name="Configure Protocol Settings.vi" Type="VI" URL="../Configure Protocol Settings.vi"/>
 	<Item Name="dB to Volts.vi" Type="VI" URL="../dB to Volts.vi"/>
 	<Item Name="Detect Expert Based Hardwares.vi" Type="VI" URL="../Detect Expert Based Hardwares.vi"/>
