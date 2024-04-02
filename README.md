@@ -2,9 +2,9 @@
 
 ## Overview
 
-"audio-adc-labview" is a MeasurementLink LabVIEW plugin for making measurements for Audio ADC's.
+This MeasurementLink LabVIEW plugin makes measurements for Audio ADCs.
 
-This plugin generates analog signal and measures the digital audio output of the ADC
+The tests generate an analog signal and measures the digital audio output of the ADC
 
 ![image](docs/images/ac-freq-domain.png)
 
@@ -25,15 +25,15 @@ This plugin generates analog signal and measures the digital audio output of the
    - Dynamic range
    - Gain error
 
-## Software Dependencies
-
+## Software Installation
+(*This section is applicable if you only want to use the pre-compiled plug-ins. If you want to open the source code, go to [software development](docs/software-development.md).*)  
 Install from NI Package Manager:
 
 - NI-DCPower (As recommended by InstrumentStudio, if SMUs are used for powering up the DUT)
 - InstrumentStudio (2024 Q1 or higher)
 - Measurement Link (2024 Q1 or higher)
 
-Download the latest NI package from the releases section of this repo or add the feed to NI Package Manager to get updates from this repo and other in this community
+Download the latest NI package from the releases section of this repo or add the feed to NI Package Manager to get updates from this repo and other in this community. To use the NI Package Manager feeds, refer to this: [Subscribing to package feeds](https://github.com/NI-MeasurementLink-Plug-Ins/package-manager-feeds)
 
 ## Getting Started
 When you are ready to start using the software, check out [this](docs/help.md).
