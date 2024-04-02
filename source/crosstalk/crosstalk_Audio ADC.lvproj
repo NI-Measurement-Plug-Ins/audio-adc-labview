@@ -421,7 +421,6 @@
 			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="PCM Interface Type.ctl" Type="VI" URL="../../../../Program Files/National Instruments/LabVIEW 2021/examples/Digital Audio Acquisition and Generation Toolkit/subVIs/PCM Interface Type.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Crosstalk_Audio ADC" Type="EXE">
