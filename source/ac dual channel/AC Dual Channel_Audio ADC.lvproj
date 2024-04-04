@@ -10,6 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="shared" Type="Folder" URL="../../shared">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="AC Dual Channel_Audio ADC.lvlib" Type="Library" URL="../AC Dual Channel_Audio ADC/AC Dual Channel_Audio ADC.lvlib"/>
 		<Item Name="AC Dual Channel_Audio ADC_UI.lvlib" Type="Library" URL="../AC Dual Channel_Audio ADC UI/AC Dual Channel_Audio ADC_UI.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -404,9 +407,7 @@
 			<Item Name="Advapi32.dll" Type="Document" URL="Advapi32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Audio ADC Controls.lvlib" Type="Library" URL="../../../../../bhava/source/shared/controls/Audio ADC Controls.lvlib"/>
-			<Item Name="Audio ADC Shared.lvlib" Type="Library" URL="../../../../../bhava/source/shared/Audio ADC Shared.lvlib"/>
-			<Item Name="Frequency Response_Audio ADC.lvlib" Type="Library" URL="../../../../../bhava/source/frequency response/Frequency Response_Audio ADC/Frequency Response_Audio ADC.lvlib"/>
+			<Item Name="Frequency Response_Audio ADC.lvlib" Type="Library" URL="../../frequency response/Frequency Response_Audio ADC/Frequency Response_Audio ADC.lvlib"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
