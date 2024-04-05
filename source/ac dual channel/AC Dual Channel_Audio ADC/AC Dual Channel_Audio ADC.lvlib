@@ -10,6 +10,10 @@
 		</Item>
 		<Item Name="Measurement Plugin.lvclass" Type="LVClass" URL="../Advanced/Measurement Plugin.lvclass"/>
 	</Item>
+	<Item Name="subVIs" Type="Folder">
+		<Item Name="Config protocol settings from meas config.vi" Type="VI" URL="../subVIs/Config protocol settings from meas config.vi"/>
+		<Item Name="Perform ac dual channel measurement.vi" Type="VI" URL="../subVIs/Perform ac dual channel measurement.vi"/>
+	</Item>
 	<Item Name="Get Measurement Details.vi" Type="VI" URL="../Get Measurement Details.vi"/>
 	<Item Name="Get Type Specializations.vi" Type="VI" URL="../Get Type Specializations.vi"/>
 	<Item Name="Get UI Details.vi" Type="VI" URL="../Get UI Details.vi"/>
