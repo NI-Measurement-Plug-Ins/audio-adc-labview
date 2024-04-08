@@ -23,10 +23,8 @@ The tests generate an analog signal and measures the digital audio output of the
    - SNR
    - SFDR
    - Dynamic range
-   - Gain error
-  
+   - Gain error 
  - Crosstalk
-
  - Stepped Frequency Sweep
    
 
