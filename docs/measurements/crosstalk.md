@@ -22,7 +22,7 @@ This service performs Crosstalk measurement.
 3. The generated and acquired signals can be seen from time domain and frequency domain graphs.
 
    Crosstalk Measurement - Frequency Domain:
-
+   ![alt text](meas-images/crosstalk-freq-domain.PNG)
 
    Crosstalk Measurement - Time Domain:
    ![alt text](meas-images/crosstalk-time-domain.PNG)
