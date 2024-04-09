@@ -7,7 +7,7 @@ This service performs AC dual channel measurements: SNR, THD, THD+N, SFDR, Dynam
 
 ## Tested Hardware Setup 2
 
-
+![alt text](meas-images/hardware-setup-for-dual-channel-TLV320ADC3101.png)
 
 ## InstrumentStudio Panel
 
