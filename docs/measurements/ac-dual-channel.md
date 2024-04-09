@@ -25,4 +25,4 @@ This service performs AC dual channel measurements: SNR, THD, THD+N, SFDR, Dynam
    ![alt text](meas-images/ac-dual-channel-freq-domain.PNG)
 
    AC Dual Channel Measurement - Time Domain:
-   ![alt text](docs/measurements/meas-images/ac-dual-channel-time-domain.PNG)
+   ![alt text](meas-images/ac-dual-channel-time-domain.PNG)
