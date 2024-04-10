@@ -17,13 +17,16 @@ The tests generate an analog signal and measures the digital audio output of the
    - Right Justified
    - TDM
  
- - Single tone measurements
+ - Single tone measurements (for single channel and dual channel)
    - THD
    - THD+N
    - SNR
    - SFDR
    - Dynamic range
-   - Gain error
+   - Gain error 
+ - Crosstalk
+ - Stepped Frequency Sweep
+   
 
 ## Software Installation
 (*This section is applicable if you only want to use the pre-compiled plug-ins. If you want to open the source code, go to [software development](docs/software-development.md).*)  
