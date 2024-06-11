@@ -8,9 +8,9 @@ Install the below softwares and packages from NIPM
 - NI-Digital Audio Acquisition and Generation Toolkit (2023 Q3 or higher)
 - NI-DCPower (As recommended by InstrumentStudio, if SMUs are used for powering up the DUT)
 - LabVIEW Sound and Vibration Toolkit (2021 or higher)
-- LabVIEW Runtime Engine (2021 SP1 or higher)
 - LabVIEW 64-bit (2021 SP1 or higher)
 - Measurement Link (2024 Q1 or higher)
+- InstrumentStudio (2024 Q1 or higher)
 
 ## VIPM packages
 
