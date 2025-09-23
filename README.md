@@ -34,7 +34,6 @@ Install from NI Package Manager:
 
 - NI-DCPower (As recommended by InstrumentStudio, if SMUs are used for powering up the DUT)
 - InstrumentStudio (2024 Q1 or higher)
-- Measurement Link (2024 Q1 or higher)
 - NI-DAQmx (2022 Q3 or higher)
 - NI-Digital Audio Acquisition and Generation Toolkit (2023 Q3 or higher)
 
