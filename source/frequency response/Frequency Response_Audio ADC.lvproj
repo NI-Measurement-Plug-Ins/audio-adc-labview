@@ -437,21 +437,21 @@
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeTypedefs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/C/community-repo/audio-adc-labview/builds/NI_AB_PROJECTNAME</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/audio-adc-labview/builds/NI_AB_PROJECTNAME</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Frequency Response_Audio ADC.lvlib/Advanced/Build Assets/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{840E365A-2708-465F-A33F-DA8DFD140DFC}</Property>
 				<Property Name="Bld_version.build" Type="Int">54</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Frequency Response_Audio ADC.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/community-repo/audio-adc-labview/builds/NI_AB_PROJECTNAME/a.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/audio-adc-labview/builds/NI_AB_PROJECTNAME/a.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">/C/community-repo/audio-adc-labview/builds/NI_AB_PROJECTNAME/data</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/audio-adc-labview/builds/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{DBFDFC8A-A602-48C1-A77C-87588F47F0C5}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2D5D2327-17A6-4380-A496-545A1DDB726E}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Frequency Response_Audio ADC.lvlib/Get Measurement Details.vi</Property>
