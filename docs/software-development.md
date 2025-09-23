@@ -4,13 +4,12 @@ If you want to commit changes to the repo, we recommend you use the current vers
 ## Software dependencies:
 Install the below softwares and packages from NIPM
 
-- LabVIEW 64-bit (2021 SP1 or higher)
-- NI-DAQmx (2022 Q3 or higher)
-- NI-Digital Audio Acquisition and Generation Toolkit (2023 Q3 or higher)
-- NI-DCPower (As recommended by InstrumentStudio, if SMUs are used for powering up the DUT)
-- LabVIEW Sound and Vibration Toolkit (2021)
-- Measurement Link (2024 Q1 or higher)
-- InstrumentStudio (2024 Q1 or higher)
+- LabVIEW (64-bit) (2021 SP1)
+- NI-DAQmx (2022 Q3)
+- NI-Digital Audio Acquisition and Generation Toolkit (2023 Q3)
+- NI-DCPower (2024 Q1 Patch 1)
+- LabVIEW Sound and Vibration Toolkit (64-bit) (2021)
+- InstrumentStudio (2025 Q2 Patch 2)
 
 ## VIPM packages
 
@@ -22,8 +21,8 @@ Download and install the below packages in this [link](https://github.com/ni/mea
 - ni_protobuf_types-1.0.0.1
 
 ## Tested with:
-- Instrument Studio 2024 Q1
-- TestStand 2024 Q1
+- InstrumentStudio (2025 Q2 Patch 2)
+- TestStand (2024 Q1)
 
 ## Github and LabVIEW Guidelines:
 Refer to [this](github-labview-guidelines.md) document for guidelines on github processes and labview development.
